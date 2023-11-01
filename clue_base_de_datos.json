@@ -1,0 +1,31 @@
+{
+  "evidencia": [
+    {
+      "personajes": {
+        "Carlos Riveramelo": false,
+        "Aldo estrada": false,
+        "Olaf Mendoza": false,
+        "Sergio Fernandez": false,
+        "Antonio Chong": false
+      }
+    },
+    {
+      "locaciones": {
+        "Estudio de grabacion": false,
+        "Sala de ensayo": false,
+        "Dormitorios": false,
+        "Piscina": false,
+        "Cochera": false
+      }
+    },
+    {
+      "armas": {
+        "tuba": false,
+        "acordeon": false,
+        "trompeta": false,
+        "clarinete": false,
+        "tarola": false
+      }
+    }
+  ]
+}
